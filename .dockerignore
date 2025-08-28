@@ -1,0 +1,14 @@
+.git
+.github
+.husky
+.vscode
+
+coverage
+node_modules
+deployment
+e2e
+
+**/test/fixture
+README.md
+test-report.xml
+sonar-project.properties
